@@ -1,7 +1,7 @@
 
 # Student Management System
 
-This is a simple C++ program that implements a Student Management System using a linked list. The system allows you to perform the following operations:
+This is a  C++ program that implements a Student Management System using a linked list. The system allows you to perform the following operations:
 - Insert a new student record
 - Search for a student record by roll number
 - Count the number of student records
