@@ -1,5 +1,5 @@
-#STUDENT RECORD MANAGEMENT SYSTEM
 
+# Student Management System
 
 This is a simple C++ program that implements a Student Management System using a linked list. The system allows you to perform the following operations:
 - Insert a new student record
@@ -9,6 +9,11 @@ This is a simple C++ program that implements a Student Management System using a
 - Delete a student record
 - Show all student records
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Functions](#functions)
 
 ## Getting Started
 
@@ -18,9 +23,9 @@ To run this program, you need to have a C++ compiler installed on your system. Y
 
 To compile the program, navigate to the directory containing the source code and run the following command:
 
-
+```sh
 g++ -o student_management main.cpp
-
+```
 
 This will create an executable file named `student_management`.
 
@@ -28,9 +33,9 @@ This will create an executable file named `student_management`.
 
 To run the compiled program, use the following command:
 
-
+```sh
 ./student_management
-
+```
 
 ## Usage
 
@@ -71,3 +76,4 @@ This function deletes a student record by roll number. If a matching record is f
 ### `void show()`
 
 This function displays all student records in the linked list.
+
